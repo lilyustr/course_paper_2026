@@ -1,0 +1,18 @@
+# Дані та архіви (щоб не пушити великі файли)
+data/*.csv
+data/*.zip
+
+# Моделі машинного навчання
+models/*.pkl
+models/*.joblib
+
+# Кеш Python та віртуальні оточення
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Системні файли macOS/Windows
+.DS_Store
+Thumbs.db
