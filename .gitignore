@@ -16,3 +16,5 @@ env/
 # Системні файли macOS/Windows
 .DS_Store
 Thumbs.db
+
+__MACOSX/
